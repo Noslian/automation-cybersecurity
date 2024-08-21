@@ -1,8 +1,8 @@
 import requests
 
-api_endpoint = "https://matera.de.goskope.com/api/v1/security_assessment"
+api_endpoint = "https://{url}.goskope.com/api/v1/security_assessment"
 
-api_token = "2263f68f9463142cd9ef2be9fa44d6d6"
+api_token = ""
 
 params = {
     "token": api_token,
