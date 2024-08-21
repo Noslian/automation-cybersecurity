@@ -17,7 +17,6 @@ if __name__ == "__main__":
                 print(f"\nCliente: {client['CLIENT']} - Servidores offline: {len(host_offline)}") 
                 for detail in host_details:
                     print(f"{detail['Hostname']} - {detail['OS_Version']} - {detail['Connection_IP']} ") #- Last Seen: {detail['Last_Seen']}
-                    #print(f"Hostname: {detail['Hostname']} - IP: {detail['Connection_IP']} - Last Seen: {detail['Last_Seen']} - First Seen: {detail['First_Seen']} - OS Version: {detail['OS_Version']}")
             else:             
                 print(f"\nCliente: {client['CLIENT']} - Sem Servidores offline")
         else:
