@@ -1,0 +1,46 @@
+/*
+ * THIS FILE IS GENERATED - DO NOT EDIT
+ */
+body,
+.pageBody {
+  background-color: #f1f1f1f1;
+}
+
+.topStrip {
+  background-color: #27447c;
+}
+
+.img-logo{
+  width: 30%;
+}
+
+.formContainer,
+.mobile .pageBody {
+  background-color: #ffffff;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.primaryBtn {
+  background-color: #27447c;
+  border-color: #27447c;
+  border-radius: 20px;
+}
+
+.primaryBtn:hover {
+  background-color: #485d86;
+  border-color: #485d86;
+}
+
+.primaryBtn:active {
+  background-color: #485d86;
+  border-color: #485d86;
+}
+
+.topHeader .topText {
+  color: #FFFFFF;
+}
+
+.formHeader {
+  color: #27447c;
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "EDR_CLIENT_NAME": "",
+        "EDR_CLIENT_ID": "",
+        "EDR_CLIENT_SECRET": "",
+        "BASE_URL": "soc.us-east-1.trellix.com"
+    },
+    {
+        "EDR_CLIENT_NAME": "",
+        "EDR_CLIENT_ID": "",
+        "EDR_CLIENT_SECRET": "",
+        "BASE_URL": "soc.trellix.com"
+    }
+]

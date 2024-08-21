@@ -1,0 +1,57 @@
+/*
+ * THIS FILE IS GENERATED - DO NOT EDIT
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+ 
+body,
+.pageBody {
+  background-color: #FFFDEF;
+}
+
+.topStrip {
+  background-color: #7ba624;
+}
+
+.formContainer,
+.mobile .pageBody {
+  background-color: #fff9c9;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.img-logo{
+  width: 220px;
+  height: 63.36px;
+}
+
+.topHeader .topText {
+  color: #333300;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 25px;
+}
+
+.formHeader {
+  color: #7ba624;
+}
+
+.formMessage{
+  font-size: medium;
+  color:  #2c323a;
+}
+
+.primaryBtn {
+  background-color: #C13404;
+  border-color: #C13404;
+  border-radius: 20px;
+}
+
+.primaryBtn:hover {
+  background-color: #333300;
+  border-color: #333300;
+}
+
+.primaryBtn:active {
+  background-color: #24300e;
+  border-color: #24300e;
+}
